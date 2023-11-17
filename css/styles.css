@@ -10,7 +10,7 @@ html, body {
 }
 
 .showPage {
-  background: url(../images/Bangalore.jpg)center;
+  background: url(../Bangalore.jpg)center;
   background-size: cover;
   height: 100vh;
   display: flex;
